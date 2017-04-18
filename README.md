@@ -12,7 +12,7 @@ My initial requirements were:
 3. Free - I don't necessarily need to pay for hosting a couple of technical notes
 4. Graphical way to see my posts - I am more comfortable with that feedback
 
-I've figured out that I can just directly edit bunch of markdown files on GitHub, anywhere, anytime, it's managed, free, I can update posts if neccessary, I have preview before I commit. And as a bonus, markdown files can be easily handed over to another system.
+I've figured out that I can just directly edit bunch of markdown files directly on GitHub, thus using it as my CMS. Anywhere, anytime, it's managed, free, I can make countless edits to my posts if neccessary, I have preview before I commit. And as a bonus, markdown files can be easily handed over to another system.
 
 I don't need any structure because posts can be referred from Google. Nobody really reads blogs today. I may put just a list of links here. 
 
