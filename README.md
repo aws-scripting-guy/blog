@@ -11,7 +11,7 @@ My initial requirements were:
 
 I've figured out that I can just directly edit bunch of markdown files on GitHub, anywhere, anytime, it's managed, free, I can update posts if neccessary, I have preview before I commit. 
 
-I don't need any structure because posts can be referred from Google. I may put just a list of links here. 
+I don't need any structure because posts can be referred from Google. Nobody really reads blogs today. I may put just a list of links here. 
 
 ## Purpose
 I am taking notes from the field in a form of blog posts. These might be beneficial to others. 
