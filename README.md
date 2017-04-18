@@ -4,7 +4,7 @@
 I am taking notes from the field in a form of blog posts. These might be beneficial to others. 
 
 ## Why here
-I was tired of messing up with Wordpress and Jekyll. This is the outcome.
+***I was tired of messing up with Wordpress and Jekyll. This is the outcome.***
 
 My initial requirements were:
 1. Simple CMS - I want to login somewhere and catch my idea immediately. Aka WordPress. No jekyll, git etc.
