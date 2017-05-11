@@ -2,7 +2,7 @@
 
 ```
 # I need to remove that star
-$MyID = "AROA12334566778890:*
+$MyID = "AROA12334566778890:*"
 $MyID = $MyID -replace ":\*",""
 
 # output
